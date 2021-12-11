@@ -1,0 +1,6 @@
+/solidity/artifacts
+/solidity/cache
+/solidity/node_modules
+/solidity/.env
+/web/node_modules
+/web/build
